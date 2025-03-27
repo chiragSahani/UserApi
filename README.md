@@ -92,5 +92,5 @@ We welcome contributions from the community! To contribute:
 For any issues or improvements, reach out via GitHub Issues.
 
 Happy Coding! 💻🔥
-```
+
 
